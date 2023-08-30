@@ -1,4 +1,4 @@
-# オウム返しBOT
+# メスガキbot
 
 ## 参考
 - PythonでLine botを作ってみた
@@ -15,5 +15,4 @@ export CHANNEL_SECRET="***"
 export CHATGPT_APIKEY="***"
 
 python /home/ubuntu/playground/flask_playground/line_chatgpt_bot/main.py
-```
-
+``` 
