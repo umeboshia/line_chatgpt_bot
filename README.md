@@ -1,7 +1,11 @@
 # メスガキbot
 
+ChatGPTがメスガキになりきって会話してくれる
+
+今後はプロンプトの種類を増やす予定
+
 ## 参考
-- PythonでLine botを作ってみた
+- PythonでLine botを作ってみた（オウム返し部分）
   
   - https://qiita.com/kro/items/67f7510b36945eb9689b
   
