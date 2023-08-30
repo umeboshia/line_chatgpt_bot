@@ -18,4 +18,4 @@ python /home/ubuntu/playground/flask_playground/line_chatgpt_bot/main.py
 ``` 
 
 ## 使用例
-![画像名](https://drive.google.com/uc?export=view&id={ 1-Wnvx1vEvZrf5G4GGUAvHT1iBO8A0djj })
+![会話画像](https://drive.google.com/uc?export=view&id=1eVZ4IU0jNZCe_q11zyWwVyuvYSve5I_C)
