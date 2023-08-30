@@ -7,7 +7,8 @@
   
 ## HOW TO USE
 
-execute `execute_main.sh`
+`execute_main.sh` を作成して実行してください．
+LINEのチャンネルアクセストークン，APIキー，CatGPTのAPIキーが必要が必要です
 
 ```
 export CHANNEL_ACCESS_TOKEN="***"
